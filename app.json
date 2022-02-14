@@ -11,38 +11,38 @@
    }   
   ],        
   "env": {
-    "SESSION_NAME": {
+    "SESSION_NAME": {AQC4VFgzxKaSMPL70ufwlytTjP1Rso9OMx-S4NCHGqrB9F6aSNMaFcJ2FIEz0Ojg68-TBbW46YPv3jkxzC7nN2mV-lgXEjQKt52Nt0vxvq1hhxUj9DqhLWyf_eGAy8Y7QtDqrVnYi1Q5DGxa8t2V2WLfAEjxnBITfYY0f4TotCo8So7oohvoy27ESwlQpgORzMtYt5eQUpDE5V2DiJk4MFZRNnFXzfXtdfb41mjxWDeXqNzjhxzWuRl4Y9ru7R_oAOhmDo-Uietwz1QsctdqyMPQ6HPOSWXQt-yAs14Y61tsocQ-AAmmlixRKn1iGwLcyYutMn1YOKPmFaEMHg4YRI8VjkdaAA
       "description": "Pyrogram session string",
       "required": true
     },
-    "BOT_TOKEN": {
+    "BOT_TOKEN": {5109382247:AAFqHlzS_bDx0Lfkb00vLd423Qdup52UEcw
       "description": "A bot token from @BotFather",
       "required": true
     },
-    "BOT_USERNAME": {
+    "BOT_USERNAME": {@asdvcbot
       "description": "Your bot's username without @",
       "required": true
     },
-    "BOT_NAME": {
+    "BOT_NAME": {asd voice bot
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
       "value": ""
     },
-    "SUPPORT_GROUP": {
+    "SUPPORT_GROUP": {@asdvpicesupport
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
       "value": "AwesomeSupport"
     },
-    "PROJECT_NAME": {
+    "PROJECT_NAME": {VCPlayBot2.0
       "description": "Your MusicPlayer project Name.",
       "required": false,
       "value": "VCPlayBot2.0"
     },
-    "ASSISTANT_NAME": {
+    "ASSISTANT_NAME": {asisstant_musicbot
       "description": "Your MusicPlayer's assistant Username without @.",
       "required": true
     },
-    "ARQ_API_KEY": {
+    "ARQ_API_KEY": {VKSSQH-SRNJYZ-MSOJAI-QALESR-ARQ
       "description": "Get from @ARQRobot.",
       "required": false,
       "value": "VKSSQH-SRNJYZ-MSOJAI-QALESR-ARQ"
@@ -57,24 +57,24 @@
       "required": false,
       "value": "LaylaList"
     },    
-    "API_ID": {
+    "API_ID": {14884817
       "description": "App ID from my.telegram.org/apps",
       "required": true
     },
-    "PMPERMIT": {
+    "PMPERMIT": {ENABLE
       "description": "Change to turn off",
       "required": false,
       "value": "ENABLE"
     },    
-    "API_HASH": {
+    "API_HASH": {f0bc9519bd536c4c7b49c9d32a3ddc17
       "description": "App hash from my.telegram.org/apps",
       "required": true
     },
-    "SUDO_USERS": {
+    "SUDO_USERS": {5078803483
       "description": "List of user IDs counted as admin everywhere (separated by space).",
       "required": true
     },
-    "DURATION_LIMIT": {
+    "DURATION_LIMIT": {15
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
       "value": "15"
